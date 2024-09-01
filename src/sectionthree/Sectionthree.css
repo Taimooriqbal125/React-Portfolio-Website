@@ -1,0 +1,17 @@
+#sectionthreemain{
+    text-align: center;
+    margin-left: 180px;
+    margin-right: 170px;
+}
+  
+   #abc{
+    display: flex;
+    justify-content: space-evenly ;
+    padding-top: 60px;
+   }
+   #ff{
+    display: flex;
+    margin-left: 230px;
+    gap: 40px;
+   }
+  

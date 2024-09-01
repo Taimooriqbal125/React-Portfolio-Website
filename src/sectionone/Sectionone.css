@@ -1,0 +1,54 @@
+#sectionone {
+  text-align: center;
+}
+#work1 {
+  display: flex;
+  gap: 50px;
+  padding-top: 50px;
+  margin-left: 200px;
+  margin-right: 170px;
+}
+#work2 {
+  display: flex;
+  gap: 90px;
+  padding-top: 50px;
+  margin-left: 200px;
+  margin-right: 170px;
+}
+#work3 {
+  display: flex;
+  gap: 50px;
+  padding-top: 60px;
+  margin-left: 200px;
+  margin-right: 170px;
+}
+#buton {
+  background-color: #ffa217;
+  color: aliceblue;
+  border-radius: 7px;
+  width: 160px;
+  height: 35px;
+  border: 0px white;
+  font-family: monospace;
+  font-size: medium;
+}
+#buton2 {
+  background-color: #000aff;
+  color: aliceblue;
+  border-radius: 7px;
+  width: 160px;
+  height: 35px;
+  border: 0px white;
+  font-family: monospace;
+  font-size: medium;
+}
+#buton3 {
+  background-color: #2ab090;
+  color: aliceblue;
+  border-radius: 7px;
+  width: 160px;
+  height: 35px;
+  border: 0px white;
+  font-family: monospace;
+  font-size: medium;
+}

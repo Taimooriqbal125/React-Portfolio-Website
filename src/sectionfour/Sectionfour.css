@@ -1,0 +1,19 @@
+#sectionfourmain{
+    text-align: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: black;
+}
+.pere{
+    color: aliceblue;
+    font-family: monospace;
+    text-align: center;
+}
+input::placeholder{
+    color: rgb(189, 197, 204);
+    font-family: monospace;
+}
+textarea::placeholder{
+    color: rgb(189, 197, 204);
+    font-family: monospace;
+}
